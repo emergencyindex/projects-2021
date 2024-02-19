@@ -1,10 +1,10 @@
 ---
 layout: page
 name: Contributors
-volume: "2020"
-title: "Index 2020: Contributors"
+volume: "2021"
+title: "Index 2021: Contributors"
 wrapperclass: "index-contributors"
-toc: 2020 Contributors
+toc: 2021 Contributors
 ---
 
 {: #A .index .sticky-nav }
