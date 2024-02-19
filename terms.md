@@ -1714,7 +1714,7 @@ toc: 2020 Terms
 
 **war** [223], [299], [361], [377], [387], [411], [583], [721], [747], [761], [831]
 
-**>War of the Worlds (radio drama)** [163]
+**War of the Worlds (radio drama)** [163]
 
 **washing** [051], [113], [241], [251], [259], [469], [561], [645], [727]; <span class="see-also">see also</span> **cleaning**
 
