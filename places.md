@@ -1,0 +1,335 @@
+---
+layout: page
+name: Places
+volume: "2020"
+title: "Index 2020: Places"
+---
+
+{: .index-ul }
+* **Argentina**
+  * Buenos Aires  [018], [418], [624]
+  * Santo Tome  [192]
+* **Australia**
+  * Brisbane  [182]
+  * Perth  [710]
+* **Austria**
+  * Vienna  [884]
+* **Belgium**
+  * Brussels  [322]
+* **Brazil  [148]**
+  * Belo Horizonte  [014], [676]
+  * Campinas  [750], [820]
+  * Chapecó  [646]
+  * Chão SLZ  [856]
+  * Macapá  [128], [654]
+  * Madalena  [600]
+  * Paraíba do Sul  [134]
+  * Pelotas  [644]
+  * Rio de Janeiro  [736], [744]
+  * Salvador  [460]
+  * São Mateus  [146]
+  * São Paulo  [016], [684], [800], [856]
+* **Bulgaria**
+  * Sofia  [426]
+* **Canada  [270], [324]**
+  * Halifax  [058]
+  * Ottawa  [328]
+  * Montreal  [022], [682], [878]
+  * Toronto  [366], [380], [390], [546], [570], [788]
+  * Vancouver  [696]
+  * Victoria  [278], [852]
+* **Chile**
+  * Concepción  [900]
+  * Santiago  [230]
+  * Valparaiso  [784]
+* **China**
+  * Xilamuren, Inner Mongolia Autonomous Region  [456]
+* **Colombia**
+  * Bogotá  [010]
+* **Croatia**
+  * Rijeka  [302]
+* **Czech Republic**
+  * Prague  [358], [824]
+* **Denmark**
+  * Århus  [276] 
+  * Copenhagen  [834]
+  * København  [222] 
+  * Sjælland  [310]
+* **Dominican Republic**
+  * Santo Domingo  [338]
+* **England**
+  * Canterbury  [370]
+  * Coventry  [438]
+  * Eastbourne  [596]
+  * Folkestone  [514] 
+  * Hampshire  [246]
+  * Huddersfield  [294]
+  * Kent  [732]
+  * London  [036], [060], [100], [138], [414], [454], [494], [880]
+  * Newcastle  [280]
+  * Oxford  [636]
+  * Shrewsbury  [658]
+  * Wye Valley  [050]
+* **Estonia**
+  * Tallinn  [670]
+* **Finland**
+  * Helsinki  [118], [488], [890]
+  * Turku  [698]
+* **France**
+  * Brest  [524]
+* **Germany**
+  * Berlin  [044], [116], [132], [220], [610], [614], [746], [876]
+  * Essen  [650]
+  * Mecklenburg-Vorpommern  [648]
+  * Vilshofen  [692]
+* **Greece**
+  * Athens  [106], [448]
+  * Thessaloniki  [402]
+* **Iceland**
+  * Reykjavik  [554], [816]
+* **India**
+  * Bangalore  [378], [634]
+  * Chandigarh  [480]
+  * Goa  [298]
+  * Kolkata  [260]
+  * New Delhi  [504]
+* **Ireland**
+  * Roscommon  [406]
+* **Iran**
+  * Isfahan  [396]
+* **Italy**
+  * Brescia  [914]
+  * Rome  [258], [382], [392]
+  * Venice  [008], [470], [474], [476], [478]
+* **Japan**
+  * Fukuoka  [712]
+  * Hokuto  [662]
+* **Lithuania**
+  * Kaunas  [268], [674]
+* **Luxembourg**
+  * Luxembourg City  [882]
+* **Mexico**
+  * Mexico City  [112], [166], [516], [582], [622]
+  * Morelia  [228]
+  * Puerto Vallarta  [104]
+  * Querétaro  [604]
+  * San Juan Atezcapan  [582]
+  * Tulum  [140]
+* **Netherlands**
+  * Amsterdam  [198], [628], [656], [874]
+  * Ede  [840]
+  * Rotterdam  [092]
+  * Zutphen  [286]
+* **New Zealand**
+  * Wellington  [552]
+  * Whanganui  [318]
+* **Northern Ireland**
+  * Belfast  [536]
+* **Norway**
+  * Bergen  [330], [556]
+  * Bodø  [704]
+* **Online  [090], [100], [102], [152], [162], [224], [294], [300], [304], [344], [400], [616], [652], [654], [668], [672], [682], [720], [736], [744], [754], [784], [788], [804], [848]**
+  * Facebook Live  [108], [642], [876]
+  * Instagram  [660], [764], [838] 
+  * YouTube  [206], [636]
+  * Zoom  [036], [060], [078], [086], [148], [188], [212], [214], [220], [270], [280], [324], [326], [370], [408], [598], [602], [708], [786], [808], [844], [852], [862]
+* **Panama**
+  * Gamboa  [864]
+* **Poland**
+  * Gdansk  [690]
+* **Portugal**
+  * Coimbra  [722]
+  * Evora  [702]
+  * Porto  [638], [850]
+* **Puerto Rico**
+  * San Juan  [856]
+* **Romania**
+  * Bucharest  [464], [740]
+* **Russia**
+  * Moscow  [084]
+* **Scotland**
+  * Blairgowrie  [036]
+  * Glasgow  [366]
+* **Serbia**
+  * Belgrade  [208], [272], [442]
+  * Novi Sad  [180]
+* **South Africa**
+  * Johannesburg  [020]
+* **South Korea**
+  * Busan  [400]
+* **Spain**
+  * Alicante  [912]
+  * Barcelona  [308]
+  * Cuenca  [774]
+  * Girona  [280]
+  * Ibiza  [210]
+  * Madrid  [832]
+  * Santiago de Compostela  [160]
+  * Vigo  [240]
+* **Sweden  [598]**
+  * Vendel  [580] 
+* **Switzerland**
+  * Ruppoldsried  [096]
+  *  Zürich  [730]
+* **Taiwan  [126], [416]**
+  * Hualien County  [896]
+  * Taipei  [776]
+* **Turkey**
+  * Istanbul  [484]
+* **United States**
+  * **Alaska**
+    * Anchorage  [862]
+  * **Arizona**
+    * Buckeye  [334]
+    * Naco  [360]
+    * Tempe  [496], [886]
+    * Tuscon  [572]
+  * **Arkansas**
+    * Bentonville  [444], [446]
+    * Fayetteville  [652], [752]
+  * **California  [720]**
+    * Freestone  [618]
+    * Joshua Tree  [694]
+    * Marin  [264]
+    * Los Angeles  [048], [064], [122], [232], [256], [284], [368], [502], [558], [606], [706], [796], [818], [828], [830], [838], [846], [894]
+    * Los Gatos  [056]
+    * Oakland  [786]
+    * Piedmont  [242]
+    * Rosemead  [594]
+    * Sacramento  [860]
+    * San Diego  [072], [694]
+    * Santa Barbara  [466]
+    * Santa Cruz  [388]
+    * San Francisco  [270]
+    * Sierra Madre  [040]
+    * Stanford  [320]
+    * Valencia  [220], [550]
+  * **Colorado**
+    * Boulder  [234]
+    * Denver  [632]
+  * **Connecticut**
+    * Middletown  [436]
+    * Norwalk  [540]
+  * **Florida**
+    * Jacksonville  [434]
+    * Miami  [178], [708], [854]
+  * **Georgia**
+    * Atlanta  [346], [588], [620]
+    * Rabun Gap  [578]
+  * **Hawaii**
+    * Honolulu  [348]
+  * **Illinois**
+    * Chicago  [034], [074], [078], [098], [102], [114], [152], [156], [174], [188], [266], [344], [376], [394], [428], [482], [508], [510], [526], [544], [574], [608], [642], [686], [718], [748], [764], [766], [778], [782], [812], [826]
+    * Normal  [412], [790], [858]
+    * Skokie  [094]
+    * Tamaroa  [274]
+  * **Indiana**
+    * Indianapolis  [468]
+  * **Iowa**
+    * Ames  [052], [068]
+    * Iowa City  [262], [566], [716]
+    * Waterloo  [772]
+    * West Des Moines  [768]
+  * **Kansas  [224]**
+  * **Kentucky**
+    * Covington  [518]
+    * Lexington  [206]
+    * Louisville  [760]
+  * **Louisiana**
+    * New Orleans  [472], [660]
+  * **Maryland**
+    * Baltimore  [042], [756], [806]
+    * Rockville  [916]
+    * Solomons Island  [404]
+  * **Massachusetts**
+    * Amesbury  [734]
+    * Boston  [120], [408]
+    * Cambridge  [728]
+    * Provincetown  [786]
+    * Worcester  [374]
+  * **Michigan  [270]**
+    * Birmingham  [844]
+    * Detroit  [794]
+    * Grand Rapids  [358]
+    * Hamtramck  [372]
+    * Highland Park  [252]
+  * **Minnesota**
+    * Minneapolis  [024], [564], [652]
+    * Rochester  [836]
+    * Witoka  [836]
+  * **Nevada**
+    * Las Vegas  [204]
+    * Reno  [332]
+    * Wendover  [724]
+  * **New Jersey**
+    * Mahwah  [196]
+    * North Bergen  [108]
+  * **New Mexico**
+    * Alamogordo  [312]
+    * Jemez Springs  [714]
+    * Santa Fe  [532]
+  * **New York  [214], [754]**
+    * Almond  [250]
+    * Beacon  [424]
+    * Brooklyn  [062], [070], [080], [086], [090], [136], [226], [248], [350], [432], [440], [458], [520], [562], [602], [612], [688], [738], [770], [810], [904]
+    * Buffalo  [626]
+    * Governors Island  [164], [386], [430]
+    * Kingston  [218]
+    * Long Island  [384], [792]
+    * New Paltz  [066], [802]
+    * New York  [026], [038], [088], [110], [130], [150], [158], [172], [182], [186], [190], [200], [236], [238], [254], [304], [336], [340], [342], [352], [354], [356], [358], [362], [364], [410], [422], [462], [486], [492], [498], [522], [528], [534], [548], [576], [584], [592], [616], [630], [668], [678], [742], [780], [798], [804], [808], [814], [842], [868], [870], [872], [888], [902], [908]
+    * Queens  [004], [054], [144], [168], [170], [194], [282], [398], [420]
+    * Rochester  [560]
+    * Staten Island  [490]
+    * Ulster County  [216], [590]
+  * **North Carolina**
+    * Charlotte  [512]
+    * Greensboro  [542]
+  * **Ohio**
+    * Cincinnati  [450], [586], [866]
+    * Cleveland  [124]
+    * Columbus  [028]
+  * **Oklahoma**
+    * Stillwater  [452]
+    * Tulsa  [762]
+  * **Oregon**
+    * Boring  [700]
+    * Corvallis  [326]
+    * Eugene  [506]
+    * Portland  [202], [500], [898]
+  * **Pennsylvania  [142]**
+    * Erie  [314] 
+    * Honesdale and Hawley  [244]
+    * Philadelphia  [082], [664], [892]
+    * Pittsburgh  [314], [316], [568] 
+  * **Rhode Island**
+    * Providence  [176], [296]
+  * **Tennessee**
+    * Chattanooga  [162]
+    * Knoxville  [032], [538]
+  * **Texas**
+    * Austin  [006]
+    * Dallas  [188], [910]
+    * Houston  [046], [530], [640]
+  * **Vermont**
+    * Putney  [076]
+  * **Virginia**
+    * Arlington  [680]
+    * Charlottesville  [292]
+    * Richmond  [666]
+  * **Washington**
+    * Seattle  [290], [296], [306]
+  * **West Virginia**
+    * Morgantown  [400]
+  * **Wisconsin**
+    * Appleton  [212] 
+    * Dane County  [030]
+    * Eau Claire  [154]
+    * Madison  [010], [822], [906]
+    * Stevens Point  [288], [726]
+* **Uruguay**
+  * Montevideo  [758]
+
+
+{%- assign projects = site.projects | where_exp: "project", "project.volume == 2020 or project.volume == 2021" -%}
+{% include project_links.md projects=projects %}
