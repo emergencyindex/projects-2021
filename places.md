@@ -331,5 +331,7 @@ title: "Index 2021: Places"
 - **Uruguay**
   - Montevideo [758]
 
-{%- assign projects = site.projects | where_exp: "project", "project.volume == 2020 or project.volume == 2021" -%}
+{%- assign projects0 = site.projects | where: "volume", "2020" -%}
+{%- assign projects1 = site.projects | where: "volume", "2021" -%}
+{%- assign projects = projects0 | concat: projects1 -%}
 {% include project_links.md projects=projects %}

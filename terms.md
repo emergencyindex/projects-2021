@@ -1792,5 +1792,7 @@ toc: 2021 Terms
 
 **Zoom** [013], [037], [061], [075], [077], [079], [081], [087], [095], [101], [121], [149], [159], [163], [173], [189], [201], [213], [215], [225], [271], [281], [299], [301], [327], [329], [371], [373], [409], [429], [603], [613], [627], [637], [681], [709], [735], [745], [755], [787], [793], [809], [843], [863]
 
-{%- assign projects = site.projects | where_exp: "project", "project.volume == 2020 or project.volume == 2021" -%}
+{%- assign projects0 = site.projects | where: "volume", "2020" -%}
+{%- assign projects1 = site.projects | where: "volume", "2021" -%}
+{%- assign projects = projects0 | concat: projects1 -%}
 {% include project_links.md projects=projects %}
